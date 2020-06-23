@@ -23,7 +23,7 @@ function calculate(num1,num2,param){
   }
   
 
- 
+
 
 /********************************************
  * CODE DOWN HERE IS FOR INTERNAL USE ONLY. *
